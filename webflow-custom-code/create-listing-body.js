@@ -23,7 +23,6 @@ Webflow.push(function() {
 
     $(function() {
         var $sections = $('.form-section');
-        console.log($sections.count);
 
         function navigateTo(index) {
             // Mark the current section with the class 'current'
