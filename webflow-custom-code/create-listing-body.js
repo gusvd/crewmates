@@ -1,6 +1,8 @@
 
 // Scripts to run after Webflow is ready 
 
+console.log(''file has been update);
+
 var Webflow = Webflow || [];
 Webflow.push(function() {
 
